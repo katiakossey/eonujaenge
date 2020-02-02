@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iexianoot.morescapefashion.com/sitemap.xml
